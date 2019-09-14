@@ -1,1 +1,2 @@
-# Stock_Prediction_Sklearn_Regression
+# Stock Prediction using Skikit Learn. 
+This code is for predicting Apple stock using various regression models like quadratic, linear, lasso, ridge, etc. 
